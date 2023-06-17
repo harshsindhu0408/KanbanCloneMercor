@@ -15,7 +15,7 @@ const NameSecion = () => {
   return (
     <div className="w-full flex items-center mt-60 justify-between flex-row">
 
-      <div className="flex flex-col items-center gap-y-10 -translate-x-[180px] justify-center">
+      <div className="flex flex-col items-center gap-y-10 -translate-x-[140px] justify-center">
         <div className="ml-2"><EditableText /></div>
 
         <div className="flex flex-row mr-20 items-center opacity-90 justify-center gap-4">
@@ -41,7 +41,7 @@ const NameSecion = () => {
         </div>
       </div>
 
-      <div className="flex flex-col items-center translate-x-[180px] justify-center">
+      <div className="flex flex-col items-center translate-x-[140px] justify-center">
         <div className="flex flex-row gap-4 items-center justify-center">
           <div className="flex flex-row items-center justify-center">
             <div className="w-[18px] h-[18px] gap-x-10 flex items-center justify-center bg-purple-200 rounded-md">
