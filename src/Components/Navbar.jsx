@@ -17,7 +17,7 @@ const Navbar = () => {
             <div className="w-[10px] h-[10px] rounded full bg-purple-200"></div>
           </div>
         </div>
-        <h1 className="font-Inter text-2xl mr-16 font-bold">Project M.</h1>
+        <h1 className="font-Inter text-2xl cursor-pointer mr-16 font-bold">Project M.</h1>
         <div className="opacity-80 mr-4">{<RxDoubleArrowLeft size={25} />}</div>
       </div>
       <div className="w-full flex items-center justify-center border-b-2 border-gray-300  h-20">
