@@ -16,7 +16,7 @@ import "./CardInfo.css";
 
 function CardInfo(props) {
   const colors = [
-    "#a8193d",
+    "#F47E7E",
     "#4fcc25",
     "#1ebffa",
     "#8da377",
