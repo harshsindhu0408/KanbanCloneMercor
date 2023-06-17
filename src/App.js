@@ -129,7 +129,7 @@ function App() {
   }, [boards]);
 
   return (
-    <div className="w-[100vw]">
+    <div className="w-full">
       <div class="split left z-10 mt-20">
         <div className="flex">
           <Tabs/>
